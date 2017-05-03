@@ -1,0 +1,74 @@
+body{
+	background-image: url(../img/meduzi.jpg);
+	background-size: cover;
+	margin: 0;
+}
+a{
+	color: #d7d7d7;
+}
+.zagolovok{
+	background-color: rgba(76, 76, 76, 0.5);
+	margin: 0;
+	padding: 100px 0px 100px 230px;
+}
+.flag{
+	width: 8%;
+	border: 1px solid #123131;
+}
+.nazvanie{
+	font-size: 150px;
+	font-family: 'Rubik Mono One', sans-serif;
+	color: #d7d7d7;
+	margin: -360px 0px 0px 670px;
+}
+.telefon{
+	font-size: 100px;
+	font-family: 'Rubik Mono One', sans-serif;
+	color: #d7d7d7;
+	margin: -300px 200px 0px 0px;
+	text-align: right;
+}
+.butt{
+	font-size: 100px;
+	font-family: 'Rubik Mono One', sans-serif;
+	color: #fff;
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#4fb5c3), to(#252d2d));
+	background-color: rgba(88, 177, 185, 0.85);
+	border-radius: 30px 30px 30px 30px;
+	margin: 0px 0px 0px 0px;
+	padding: 30px 100px 30px 100px;
+}
+.but{
+	margin: -245px 0px 0px 47%;
+}
+.butt:hover {
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#81dae6), to(#2b5a61));
+	background-color: rgba(88, 177, 185, 0.85);
+	cursor: pointer;
+}
+.text{
+	background-color: rgba(76, 76, 76, 0.5);
+	margin: 200px 4800px 0px 200px;
+	padding: 2800px 0px 0px 0px;
+	border-radius: 50px;
+}
+.samtext{
+	font-size: 100px;
+	font-family: 'Rubik Mono One', sans-serif;
+	color: #d7d7d7;
+	margin: -2800px 0px 0px 0px;
+	padding: 100px 100px 100px 100px;
+}
+.textdva{
+	background-color: rgba(76, 76, 76, 0.5);
+	margin: -2800px 200px 0px 5000px;
+	padding: 2800px 0px 0px 0px;
+	border-radius: 50px;
+}
+.samtextdva{
+	font-size: 100px;
+	font-family: 'Rubik Mono One', sans-serif;
+	color: #d7d7d7;
+	margin: -2800px 0px 0px 0px;
+	padding: 100px 100px 100px 100px;
+}
